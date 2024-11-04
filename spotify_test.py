@@ -1,3 +1,4 @@
+# pip install spotipy
 import spotipy
 import config
 
